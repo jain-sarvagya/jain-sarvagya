@@ -108,13 +108,6 @@ Python Flask MySQL
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jain-sarvagya&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </p>
-<!-- ========================================================= --> <!-- CONTRIBUTION SNAKE --> <!-- ========================================================= -->
-🐍 Contribution Snake
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jain-sarvagya/jain-sarvagya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</p>
 <!-- ========================================================= --> <!-- GOALS --> <!-- ========================================================= -->
 🎯 2026 Goals
 📊 Build advanced Data Analytics projects
