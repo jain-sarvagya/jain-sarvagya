@@ -26,63 +26,68 @@ Here are some ideas to get you started:
 <p> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/> </p>
 ☁️ Cloud & DevOps
 <p> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
-<!-- ========================================================= --> <!-- FEATURED PROJECTS --> <!-- ========================================================= -->
-🚀 Featured Projects
-<table> <tr> <td width="50%">
-🤖 Smart Sheet AI
+<!-- ========================================================= -->
+<!--                   FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
 
-AI-powered application for analyzing structured data and generating intelligent insights.
+## 🚀 Featured Projects
 
-Tech Stack
+<table>
+<tr>
 
-Python Flask AI Data Analytics REST API
+<td width="50%">
 
-</td> <td width="50%">
-📚 Notes Drill
+<h3>📊 Vendor Performance Analysis</h3>
 
-AI-powered learning assistant that converts study material into summaries, quizzes and flashcards.
+<p>
+Engineered an end-to-end analytics pipeline, transforming raw procurement, inventory, and sales data into actionable business insights using <b>SQL and Python</b>.
+</p>
 
-Tech Stack
+<ul>
+  <li>Conducted exploratory and statistical analysis with KPI evaluation to identify high-performing vendors, optimize inventory turnover, and improve profitability.</li>
+  <li>Developed an interactive <b>Power BI dashboard</b> covering vendor performance, gross profit, sales trends, purchasing efficiency, and inventory metrics.</li>
+</ul>
 
-React Node.js AI MongoDB
+<p>
+<b>Tools:</b> SQL • Python • Pandas • NumPy • Power BI
+</p>
 
-</td> </tr> <tr> <td width="50%">
-📊 Vendor Performance Analysis
+<p>
+<a href="https://github.com/jain-sarvagya/Vendor-Performance-Analysis">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-Data analytics project focused on analyzing vendor performance and extracting actionable business insights.
+</td>
 
-Tech Stack
+<td width="50%">
 
-Python Pandas NumPy EDA Visualization
+<h3>🛍️ Customer Shopping Behaviour Analysis</h3>
 
-</td> <td width="50%">
-🎙️ Python Voice Recorder
+<p>
+Analyzed transactional data from <b>3,900 purchases across 18 features</b> using Python and SQL to uncover customer spending and purchasing patterns.
+</p>
 
-Desktop voice recording application developed using Python.
+<ul>
+  <li>Performed data cleaning, missing-value imputation, and feature engineering using <b>Pandas</b>.</li>
+  <li>Answered 10 key business questions using SQL, covering revenue, demographics, discounts, and customer segmentation.</li>
+  <li>Built an interactive <b>Power BI dashboard</b> analyzing spending trends, subscriptions, and shipping preferences.</li>
+</ul>
 
-Tech Stack
+<p>
+<b>Tools:</b> Python • Pandas • PostgreSQL • SQL • Power BI
+</p>
 
-Python Tkinter Audio Processing
+<p>
+<a href="https://github.com/jain-sarvagya/Customer_Behavior_Analysis">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-</td> </tr> <tr> <td width="50%">
-📚 Library Management System
+</td>
 
-Java-based application for managing books, users and library operations.
-
-Tech Stack
-
-Java OOP Data Structures
-
-</td> <td width="50%">
-🖥️ Python Attendance Tracker
-
-Application designed to manage and track attendance records.
-
-Tech Stack
-
-Python Flask MySQL
-
-</td> </tr> </table>
+</tr>
+</table>
 <!-- ========================================================= --> <!-- CERTIFICATIONS --> <!-- ========================================================= -->
 🏆 Certifications & Professional Learning
 
