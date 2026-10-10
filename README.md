@@ -14,7 +14,6 @@
 <a href="https://www.linkedin.com/in/sarvagya-jain-310875295"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/jain-sarvagya"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=jain-sarvagya&style=for-the-badge&color=36BCF7&label=PROFILE%20VIEWS" alt="Profile views"/>
 </div>
 
 ---
@@ -149,7 +148,7 @@ An analysis of **3,900 purchases across 18 features** to identify customer spend
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jain-sarvagya&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
+
 
 </div>
 
